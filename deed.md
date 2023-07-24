@@ -8,6 +8,7 @@ The data ethics emergency drill (DEED) is similar to a fire drill, where a team 
 
 If you are part of or know a team who would like vanessa[dot]hanschke[at]bristol[dot]ac[uk].
 
+
 ### FAQ
 
 **How much time do these activities take?**
