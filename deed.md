@@ -4,9 +4,12 @@ layout: default
 
 ## Data Ethics Emergency Drill 🧯
 
-The data ethics emergency drill (DEED) is similar to a fire drill, where a team plays out a scenario of some issue that has come up with their data science/ML/AI system that has ethical implications. An ethics emergency could be, for example, a hiring algorithm that has only been tested on young people and, once it was deployed, discriminated against old people. The DEED's main goal is to help technologists reflect on the ethics of their applications and practice having conversations around ethical concerns. We have so far run three iterations of this study with two different data science teams.
+The data ethics emergency drill (DEED) is similar to a fire drill, where a team plays out a scenario of some issue that has come up with their data science/ML/AI system that has ethical implications. An ethics emergency could be, for example, a hiring algorithm that has only been tested on young people and, once it was deployed, discriminated against old people. The DEED's main goal is to help technologists reflect on the ethics of their applications and practice having conversations around ethical concerns.
 
-If you are part of or know a team who would like vanessa[dot]hanschke[at]bristol[dot]ac[uk].
+We have so far run three iterations of this study with two different data science teams and now created a toolbox with instructions to craft their very own drills, to challenge their team members and exercise their responsible AI muscles. 
+
+If you are part of or know a team who would like to carry out a DEED, please get in touch with me: vanessa[dot]hanschke[at]bristol[dot]ac[uk]
+
 
 
 ### FAQ
