@@ -1,9 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Vanessa Hanschke
+url: "https://vairylein.github.com"
+baseurl: "/"
+description: >- # this means to ignore newlines until "baseurl:"
+  Vanessa Aisyahsari Hanschke PhD student at University of Bristol
+  studying responsible AI as part of the Interactive Artificial Intelligence CDT.
+  Creator of the Data Ethics Emergency Drill.
+  A website with her biography and research.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -15,10 +21,19 @@ sass:
     style: compressed
     sass_dir: _sass
 
+plugins:
+  - jekyll-seo-tag
+
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+# - name: "Resume"
+#   link: "resume.pdf"
+ - name: "Publications"
+   link: "publications"
+# - name: "Multimedia"
+#   link: "multimedia"
+ - name: "DEED"
+   link: "deed"
  - name: "Contact"
    link: "contact"
