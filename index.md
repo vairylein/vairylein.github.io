@@ -22,5 +22,5 @@ In my PhD, I am currently exploring how developers can be encouraged to reflect 
 
 ## News
 
- Would you like to test your responsible AI practise? I am looking for data and/or AI developer teams (data scientists, AI/ML engineers, etc.) More info [here](/deed)
+ Would you like to test your responsible AI practice? I am looking for data and/or AI developer teams (data scientists, AI/ML engineers, etc.) More info [here](/deed)
 
