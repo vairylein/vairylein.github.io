@@ -23,6 +23,7 @@ Check out my work:
 
 ## Video Audio and Multimedia
 
+* 🎧 Together with my friend Elaine from the BIG lab, we spoke about creating inclusive future worlds on Episode 2 of the Imagine a world [podcast](https://worldbuild.ai/podcast/) with the Future of Life Institute.
 
 * 🎞️ Together with my talented animator and filmmaker sister [Yasmin Dwiputri](http://yasmindwiputri.com/index.html) I produced a few short films about Data Science and AI.
 
@@ -32,6 +33,6 @@ Check out my work:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkLGw49WvCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p><a href="https://youtu.be/hkLGw49WvCs">Why do we need Data Hazards?</a> from <a href="https://datahazards.com/">datahazards.com</a> also featured on <a href="https://betterimagesofai.org">Better images of AI</a>.</p>
 
-* 🌏 Together with a few colleagues and friends I won third place in the FLI's worldbuilding competition.
-Check out our submission called [Crossing Points](https://worldbuild.ai/w-0000000450/) and the fake [podcast](https://www.youtube.com/watch?v=gottNO5ih4I) we made for it.
+* 🌏 Together with a few colleagues and friends I won third place in the Future of Life Insititute's worldbuilding competition.
+Check out our submission called [Crossing Points](https://worldbuild.ai/crossing-points/) and the fake [podcast](https://www.youtube.com/watch?v=gottNO5ih4I) we made for it.
 
