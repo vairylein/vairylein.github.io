@@ -3,21 +3,27 @@ layout: default
 ---
 
 Check out my work:
-* [Papers](#papers) at conferences, journals or workshops or things you can read
+* [Papers](#papers) at conferences or journals
+* [Workshop Participation](#workshop-participation)
 * [Multimedia](#video-audio-and-multimedia) or things you can listen to, watch and explore
 
 ---
 
 ## Papers
 
+1. Hanschke, Vanessa Aisyahsari, Dylan Rees, Merve Alanyali, David Hop- kinson, and Paul Marshall. [Data Ethics Emergency Drill: A Tool- box for Discussing Responsible AI for Industry Teams."](https://arxiv.org/abs/2403.10438) In Proceedings of the CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery (ACM),(2024).
+
+2. Di Cara, Nina H., Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Ola Michalec et al. ["Data Ethics Club: Creating a collaborative space to discuss data ethics."](https://www.cell.com/patterns/pdf/S2666-3899(22)00134-9.pdf) Patterns 3, no. 7, (2022).
+
+3. Hanschke, Vanessa, Areti Manataki, Cristina Adriana Alexandru, Petros Papapanagiotou, Carolyn Deighan, Louise Taylor, and Dave Robertson. ["Designing a social machine for the heart manual service."](https://www.scitepress.org/PublishedPapers/2017/62490/62490.pdf) In International Conference on Health Informatics, vol. 6, pp. 435-440. SCITEPRESS, (2017).
+
+---
+
+## Workshop Participation
 
 1. Hanschke, Vanessa Aisyahsari. "Data Ethics Emergency Drill: Exploring Responsible Data and AI Practices in Context." In CHI ’23 Workshop: [Designing Technology and Policy Simultaneously: Towards A Research Agenda and New Practice](http://designpolicy.one/accepted.html), ACM, (2023).
 
 2. Hanschke, Vanessa Aisyahsari. "Data Hazards" In CHI ’23 Workshop: [AI Literacy](https://sites.gatech.edu/chi2023ailiteracy/sample-page/), ACM, (2023).
-
-3. Di Cara, Nina H., Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Ola Michalec et al. ["Data Ethics Club: Creating a collaborative space to discuss data ethics."](https://www.cell.com/patterns/pdf/S2666-3899(22)00134-9.pdf) Patterns 3, no. 7 (2022).
-
-4. Hanschke, Vanessa, Areti Manataki, Cristina Adriana Alexandru, Petros Papapanagiotou, Carolyn Deighan, Louise Taylor, and Dave Robertson. ["Designing a social machine for the heart manual service."](https://www.scitepress.org/PublishedPapers/2017/62490/62490.pdf) In International Conference on Health Informatics, vol. 6, pp. 435-440. SCITEPRESS, (2017).
 
 ---
 
