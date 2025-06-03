@@ -3,14 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Send me an email: vanessa.hanschke[at]bristol[dot]ac[dot]uk
-* Visit me at the [BIG lab](http://biglab.co.uk/)
+* Send me an email: v.hanschke[at]ucl[dot]ac[dot]uk
+* Visit me at the [UCLIC](https://www.ucl.ac.uk/uclic)
 
 ---
 
 ## Based in
 
-> Bristol
+> London
 >
 > United Kingdom
 
