@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="vhpicture.jpg">
 
 Hello! Hallo! Halo! I am Vanessa Aisyahsari Hanschke (Pronouns: she/her), Associate Lecturer in Human-Computer Interaction at the UCL Interaction Centre. Previously, I completed my PhD with the [Interactive Artificial Intelligence CDT](https://www.bristol.ac.uk/cdt/interactive-ai/) at the University of Bristol under the supervision of
-[Dr. Paul Marshall](https://www.bristol.ac.uk/people/person/Paul-Marshall-36d4dfa7-1ec3-4168-9226-130e47809b65/)).
+[Dr. Paul Marshall](https://www.bristol.ac.uk/people/person/Paul-Marshall-36d4dfa7-1ec3-4168-9226-130e47809b65/) and [Professor Kenton O'Hara](https://research-information.bris.ac.uk/en/persons/kenton-ohara).
 
 
 ## Research Interest
