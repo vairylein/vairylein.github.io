@@ -5,3 +5,4 @@ _site
 vendor
 todo.md
 resume.pdf
+.DS_Store
