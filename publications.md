@@ -12,7 +12,9 @@ Check out my work:
 
 ## Papers
 
-1. Zelenka, Natalie, Nina H. Di Cara, Euan Bennet, Phil Clatworthy, Huw Day, Ismael Kherroubi Garcia, Susana Roman Garcia, **Vanessa Aisyahsari Hanschke**, and Emma Siân Kuwertz. "Data Hazards: An open-source vocabulary of ethical hazards for data-intensive projects." Journal of Responsible Technology (2025).
+1. Czech, Elaine, Dan Bennett, Grace Jane Stangroome, **Vanessa Aisyahsari Hanschke**, Amy Ingold, Paul Marshall, and Oussama Metatla. "Let's Make a Community [of Practice]: Using Community-Based Participatory Design to Support Interdependence." In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, pp. 1-23. 2026.
+
+2. Zelenka, Natalie, Nina H. Di Cara, Euan Bennet, Phil Clatworthy, Huw Day, Ismael Kherroubi Garcia, Susana Roman Garcia, **Vanessa Aisyahsari Hanschke**, and Emma Siân Kuwertz. "Data Hazards: An open-source vocabulary of ethical hazards for data-intensive projects." Journal of Responsible Technology (2025).
 
 2. **Hanschke, Vanessa Aisyahsari**, Dylan Rees, Merve Alanyali, David Hopkinson, and Paul Marshall. ["Data Ethics Emergency Drill: A Tool- box for Discussing Responsible AI for Industry Teams."](https://arxiv.org/abs/2403.10438) In Proceedings of the CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery (ACM),(2024).
 
